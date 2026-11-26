@@ -1,0 +1,61 @@
+{
+ "updated": 1795730576,
+ "modes": [
+  {
+   "key": "sword",
+   "name": "Sword",
+   "emoji": "⚔️",
+   "group": "tiers"
+  },
+  {
+   "key": "speed",
+   "name": "Speed",
+   "emoji": "💨",
+   "group": "tiers"
+  },
+  {
+   "key": "mace",
+   "name": "Mace",
+   "emoji": "🔨",
+   "group": "tiers"
+  },
+  {
+   "key": "cpvp",
+   "name": "CPvP",
+   "emoji": "💎",
+   "group": "tiers"
+  },
+  {
+   "key": "potpvp",
+   "name": "PotPvP",
+   "emoji": "🧪",
+   "group": "subtiers"
+  },
+  {
+   "key": "axe",
+   "name": "Axe",
+   "emoji": "🪓",
+   "group": "subtiers"
+  },
+  {
+   "key": "creeper",
+   "name": "Creeper",
+   "emoji": "💥",
+   "group": "subtiers"
+  }
+ ],
+ "points": {
+  "HT1": 60,
+  "LT1": 45,
+  "HT2": 30,
+  "LT2": 20,
+  "HT3": 10,
+  "LT3": 6,
+  "HT4": 4,
+  "LT4": 3,
+  "HT5": 2,
+  "LT5": 1
+ },
+ "players": [],
+ "recent": []
+}
