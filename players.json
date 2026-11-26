@@ -1,0 +1,216 @@
+{
+ "updated": 1795727986,
+ "demo": true,
+ "modes": [
+  {
+   "key": "sword",
+   "name": "Sword",
+   "emoji": "⚔️",
+   "group": "tiers"
+  },
+  {
+   "key": "speed",
+   "name": "Speed",
+   "emoji": "💨",
+   "group": "tiers"
+  },
+  {
+   "key": "mace",
+   "name": "Mace",
+   "emoji": "🔨",
+   "group": "tiers"
+  },
+  {
+   "key": "cpvp",
+   "name": "CPvP",
+   "emoji": "💎",
+   "group": "tiers"
+  },
+  {
+   "key": "potpvp",
+   "name": "PotPvP",
+   "emoji": "🧪",
+   "group": "subtiers"
+  },
+  {
+   "key": "axe",
+   "name": "Axe",
+   "emoji": "🪓",
+   "group": "subtiers"
+  },
+  {
+   "key": "creeper",
+   "name": "Creeper",
+   "emoji": "💥",
+   "group": "subtiers"
+  }
+ ],
+ "points": {
+  "HT1": 60,
+  "LT1": 45,
+  "HT2": 30,
+  "LT2": 20,
+  "HT3": 10,
+  "LT3": 6,
+  "HT4": 4,
+  "LT4": 3,
+  "HT5": 2,
+  "LT5": 1
+ },
+ "players": [
+  {
+   "nick": "Notch",
+   "region": "EU",
+   "modes": {
+    "sword": {
+     "tier": "LT1",
+     "retired": true
+    },
+    "potpvp": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "axe": {
+     "tier": "LT3",
+     "retired": false
+    }
+   }
+  },
+  {
+   "nick": "jeb_",
+   "region": "EU",
+   "modes": {
+    "sword": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "potpvp": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "axe": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "cpvp": {
+     "tier": "HT3",
+     "retired": false
+    },
+    "speed": {
+     "tier": "LT2",
+     "retired": false
+    }
+   }
+  },
+  {
+   "nick": "Dinnerbone",
+   "region": "EU",
+   "modes": {
+    "sword": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "potpvp": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "cpvp": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "mace": {
+     "tier": "LT2",
+     "retired": false
+    },
+    "speed": {
+     "tier": "HT3",
+     "retired": false
+    }
+   }
+  },
+  {
+   "nick": "Grumm",
+   "region": "EU",
+   "modes": {
+    "sword": {
+     "tier": "HT2",
+     "retired": false
+    },
+    "potpvp": {
+     "tier": "HT3",
+     "retired": false
+    },
+    "creeper": {
+     "tier": "LT3",
+     "retired": false
+    }
+   }
+  },
+  {
+   "nick": "Searge",
+   "region": "EU",
+   "modes": {
+    "sword": {
+     "tier": "HT3",
+     "retired": false
+    },
+    "cpvp": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "mace": {
+     "tier": "LT2",
+     "retired": false
+    },
+    "axe": {
+     "tier": "HT4",
+     "retired": false
+    }
+   }
+  },
+  {
+   "nick": "Mojang",
+   "region": "EU",
+   "modes": {
+    "mace": {
+     "tier": "LT4",
+     "retired": false
+    },
+    "creeper": {
+     "tier": "HT4",
+     "retired": false
+    }
+   }
+  }
+ ],
+ "recent": [
+  {
+   "nick": "Grumm",
+   "mode": "sword",
+   "tier": "HT2",
+   "retired": false,
+   "ts": 1795727386
+  },
+  {
+   "nick": "Notch",
+   "mode": "sword",
+   "tier": "LT1",
+   "retired": true,
+   "ts": 1795722586
+  },
+  {
+   "nick": "Searge",
+   "mode": "mace",
+   "tier": "LT2",
+   "retired": false,
+   "ts": 1795637986
+  },
+  {
+   "nick": "Mojang",
+   "mode": "mace",
+   "tier": "LT4",
+   "retired": false,
+   "ts": 1795547986
+  }
+ ]
+}

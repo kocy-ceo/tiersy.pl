@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Polska Tierlista · Ranking graczy Minecraft PvP</title>
+  <meta name="description" content="Ranking graczy Minecraft PvP: tiery, subtiery i overall.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%86%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-in">
+      <a class="brand" href="#/ranking/tiers/overall">
+        <span class="logo" id="logo">PT</span>
+        <span class="brand-txt">
+          <b id="siteName">POLSKA <i>TIERLISTA</i></b>
+          <small id="siteSub">MINECRAFT PVP · 1.20+</small>
+        </span>
+      </a>
+      <nav class="nav">
+        <a href="#/ranking/tiers/overall" data-nav="ranking">Ranking</a>
+        <a href="#/info" data-nav="info">Informacje</a>
+      </nav>
+      <div class="search">
+        <input id="search" type="search" placeholder="Szukaj gracza…" autocomplete="off" aria-label="Szukaj gracza">
+        <kbd>/</kbd>
+        <div class="search-res" id="searchRes" hidden></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap layout">
+    <section id="page"></section>
+
+    <aside class="side">
+      <div class="card">
+        <div class="card-h">
+          <span class="card-ico">⚡</span>
+          <div><h3>Ostatnie testy</h3><small>Wyniki społeczności</small></div>
+        </div>
+        <div id="recent"></div>
+      </div>
+      <div class="card">
+        <div class="card-h">
+          <span class="card-ico gold">🏆</span>
+          <div><h3>Wysokie testy</h3><small>High Tier</small></div>
+        </div>
+        <div id="high"></div>
+      </div>
+      <a class="card link-card" href="#/info">
+        <span class="card-ico gold">🏆</span>
+        <div><h3>Polska Tierlista</h3><small>1.20+ · Minecraft PvP</small></div>
+        <hr>
+        <p>Informacje i punktacja <span>›</span></p>
+      </a>
+    </aside>
+  </main>
+
+  <footer class="wrap foot">
+    <span id="updated"></span>
+    <span>Dane aktualizuje bot Discord automatycznie.</span>
+  </footer>
+
+  <dialog id="modal"><div id="modalBody"></div></dialog>
+  <script src="app.js"></script>
+</body>
+</html>
