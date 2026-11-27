@@ -1,5 +1,5 @@
 {
- "updated": 1795730576,
+ "updated": 1795816950,
  "modes": [
   {
    "key": "sword",
@@ -56,6 +56,36 @@
   "HT5": 2,
   "LT5": 1
  },
- "players": [],
- "recent": []
+ "players": [
+  {
+   "nick": "krzak",
+   "region": "EU",
+   "modes": {
+    "potpvp": {
+     "tier": "LT3",
+     "retired": false
+    },
+    "sword": {
+     "tier": "LT3",
+     "retired": false
+    }
+   }
+  }
+ ],
+ "recent": [
+  {
+   "nick": "krzak",
+   "mode": "sword",
+   "tier": "LT3",
+   "retired": false,
+   "ts": 1795816932
+  },
+  {
+   "nick": "krzak",
+   "mode": "potpvp",
+   "tier": "LT3",
+   "retired": false,
+   "ts": 1795816921
+  }
+ ]
 }
