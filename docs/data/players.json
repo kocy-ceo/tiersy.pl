@@ -1,5 +1,5 @@
 {
- "updated": 1795817070,
+ "updated": 1795817310,
  "modes": [
   {
    "key": "sword",
@@ -84,9 +84,26 @@
      "retired": false
     }
    }
+  },
+  {
+   "nick": "xomne",
+   "region": "EU",
+   "modes": {
+    "potpvp": {
+     "tier": "LT3",
+     "retired": false
+    }
+   }
   }
  ],
  "recent": [
+  {
+   "nick": "xomne",
+   "mode": "potpvp",
+   "tier": "LT3",
+   "retired": false,
+   "ts": 1795817272
+  },
   {
    "nick": "Saf3zy",
    "mode": "potpvp",
