@@ -1,5 +1,5 @@
 {
- "updated": 1795817370,
+ "updated": 1795817430,
  "modes": [
   {
    "key": "sword",
@@ -86,6 +86,10 @@
     "speed": {
      "tier": "LT3",
      "retired": false
+    },
+    "sword": {
+     "tier": "LT3",
+     "retired": false
     }
    }
   },
@@ -101,6 +105,13 @@
   }
  ],
  "recent": [
+  {
+   "nick": "Saf3zy",
+   "mode": "sword",
+   "tier": "LT3",
+   "retired": false,
+   "ts": 1795817373
+  },
   {
    "nick": "Saf3zy",
    "mode": "speed",
