@@ -1,5 +1,5 @@
 {
- "updated": 1795817010,
+ "updated": 1795817070,
  "modes": [
   {
    "key": "sword",
@@ -74,9 +74,26 @@
      "retired": false
     }
    }
+  },
+  {
+   "nick": "Saf3zy",
+   "region": "EU",
+   "modes": {
+    "potpvp": {
+     "tier": "LT3",
+     "retired": false
+    }
+   }
   }
  ],
  "recent": [
+  {
+   "nick": "Saf3zy",
+   "mode": "potpvp",
+   "tier": "LT3",
+   "retired": false,
+   "ts": 1795817041
+  },
   {
    "nick": "krzak",
    "mode": "speed",
