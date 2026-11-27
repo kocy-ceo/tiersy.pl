@@ -1,5 +1,5 @@
 {
- "updated": 1795816950,
+ "updated": 1795817010,
  "modes": [
   {
    "key": "sword",
@@ -68,11 +68,22 @@
     "sword": {
      "tier": "LT3",
      "retired": false
+    },
+    "speed": {
+     "tier": "LT3",
+     "retired": false
     }
    }
   }
  ],
  "recent": [
+  {
+   "nick": "krzak",
+   "mode": "speed",
+   "tier": "LT3",
+   "retired": false,
+   "ts": 1795816953
+  },
   {
    "nick": "krzak",
    "mode": "sword",
